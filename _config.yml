@@ -1,12 +1,12 @@
 # Site settings
-title: Perfect Pitch
+title: PitchLinkX
 email: perfectpitch.bw@gmail.com
 description: ""
 baseurl: "" 
 url: ""
 
-twitter_username: perfectpitch20
-github_username: perfectpitchbw
+twitter_username: pitchlinkx
+github_username: pitchlinkx
 
 # Build settings
 markdown: kramdown
