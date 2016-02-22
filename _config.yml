@@ -1,12 +1,12 @@
 # Site settings
 title: PitchLinkX
 email: perfectpitchbw@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: ""
 baseurl: ""
 url: ""
 
-twitter_username:pitchlinkx
-github_username:pitchlinkx
+twitter_username: pitchlinkx
+github_username: pitchlinkx
 
 # Build settings
 markdown: kramdown
